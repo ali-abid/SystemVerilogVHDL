@@ -8,4 +8,7 @@ http://vhdlguru.blogspot.ie/p/example-codes.html
 http://www.edaplayground.com/s/4/111
 
 #TestBench website
-http://www.testbench.in/CL_00_INDEX.html  
+ttp://www.testbench.in/CL_00_INDEX.html  
+
+#Timing Analysis
+http://www.vlsi-basics.com/2013/03/static-timing-analysis-sta.html 

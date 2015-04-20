@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Dev/altera/14.1
+vand_gate
+!s110 1429543645
+!i10b 1
+!s100 oWgKd6iQf3`M>0L91fT]I3
+Ic2O_GZ5Q14eZ>3`b0JdDO1
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dC:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate
+w1429540963
+8C:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/and_gate.v
+FC:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/and_gate.v
+L0 2
+Z2 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1429543645.877000
+!s107 C:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/and_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/and_gate.v|
+!i113 1
+Z3 o-work work
+vand_test
+!s110 1429543658
+!i10b 1
+!s100 FOOOk1?n4HeHNQBz5j<>j2
+Im7dIAZl4>lo]?U60j0_Y32
+R0
+R1
+w1429543654
+8C:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/gate_test_bench.v
+FC:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/gate_test_bench.v
+L0 4
+R2
+r1
+!s85 0
+31
+!s108 1429543658.506000
+!s107 C:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/gate_test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/gate_test_bench.v|
+!i113 1
+R3

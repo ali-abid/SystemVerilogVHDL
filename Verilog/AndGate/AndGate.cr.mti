@@ -1,0 +1,15 @@
+C:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/gate_test_bench.v {1 {vlog -work work -stats=none C:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/gate_test_bench.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module and_test
+
+Top level modules:
+	and_test
+
+} {} {}} C:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/and_gate.v {1 {vlog -work work -stats=none C:/Dev/workspace/VerilogVHDL/ModelSim/Verilog/AndGate/and_gate.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}}

@@ -1,1 +1,3 @@
 Verilog\AndGate\*
+!Verilog\AndGate\and_gate.v
+!Verilog\AndGate\gate_test_bench.v
